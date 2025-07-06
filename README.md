@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: Docker Containerization Challenge
 ## Nebulance Systems BootCamp DevOps Class2025A
 
@@ -162,3 +163,6 @@ This challenge tests your ability to:
 5. **Database Requirements**: MongoDB needs persistent storage and proper initialization
 
 **Remember**: The use of AI is highly recommended
+=======
+# Flask-App
+>>>>>>> 4d392f2a99be89b898cfdb94e253e84eb2162d1c
