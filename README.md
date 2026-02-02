@@ -4,8 +4,6 @@ Nebulance Systems BootCamp DevOps Class2025A
 📌 Project Summary
 This project is about building and deploying a Flask Visitor Counter Web Application. Every time someone visits the webpage, a counter goes up by one and stores this data in a MongoDB database.
 
-You are not just building the app — you are containerizing it using Docker and Docker Compose so it can run anywhere, anytime.
-
 ✅ Expected Outcome
 Web app running at: http://localhost:5050
 Big counter showing number of visitors
